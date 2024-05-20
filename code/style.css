@@ -1,0 +1,19 @@
+body{
+    background-color: #4D869C;
+    color:#EEF7FF;
+
+}
+div{
+    width:50%;
+    margin-left: 25%;
+    text-align: center;
+    font-family: 'Dancing Script',cursive;
+}
+h2{
+    font-size: 4em;
+    
+}
+img{
+   border:5px solid gold; 
+   width:100%;
+}
